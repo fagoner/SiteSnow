@@ -2,7 +2,8 @@
 
 ## Live Demo
 
-[https://fagoner.github.io/SiteSnow/](https://fagoner.github.io/SiteSnow/)
+<a href="https://fagoner.github.io/SiteSnow/" target="_blank">https://fagoner.github.io/SiteSnow</a>
+
 
 ## CSS
 `css/snow.css`
